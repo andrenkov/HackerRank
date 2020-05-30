@@ -39,78 +39,56 @@ namespace hackerrank_01
 
         static void Main(string[] args)
         {
-            List<string> inputs = new List<string>();
-
-            //Console.WriteLine("Enter number of cases");
-            int.TryParse(Console.ReadLine(), out int _cases);
-            if ((_cases < 1) || (_cases > 20))
+            int.TryParse(Console.ReadLine(), out int T);
+            for (int i = 0; i < T; i++)
             {
-                Console.WriteLine("Invalid input: number of cases");
-                WaitAndClose();
-                return;
-            }
-            #region create list of inputs
-            for (int i = 0; i < _cases; i++)
-            {
-                //Console.WriteLine("Enter a string #{0}:", i + 1);
-                string _temp = Console.ReadLine().ToLower();
-                if (string.IsNullOrEmpty(_temp) || ((_temp.Length < 1) || (_temp.Length > 100005)))
+                string s = Console.ReadLine().ToLower();
+                if (IsPolydrome(s))
                 {
-                    Console.WriteLine("Please re-enter a string #{0}:", i);
-                    i--;
-                }
-                else
-                {
-                    inputs.Add(_temp);
-                }
-            }
-            #endregion
-            #region compute cases
-            //int _count = 1;
-            List<int> res = new List<int>();
-            foreach (string StrToCompute in inputs)
-            {
-                res.Clear();
-                //Console.WriteLine("case {0}:", _count++);
-                if (IsPolydrome(StrToCompute))
-                {
-                    res.Add(-1);
-                    Console.WriteLine(res[0].ToString());
+                    Console.WriteLine("-1");
                     continue;
                 }
-
-                for (int i = 0; i < StrToCompute.Length; i++)
+                int _size = s.Length;
+                for (int j = 0; j < _size - 1; j++)
                 {
-                    if (IsPolydrome(StrToCompute.Remove(i, 1)))
+                    if ((s[j] != s[_size - (j+1)]) && (s[j+1] == s[_size - (j+1)]))
                     {
-                        res.Add(i);
+                        Console.WriteLine(j);
+                        break;
+                    }
+                    if ((s[j] != s[_size - (j + 1)]) && (s[j] == s[_size - (j + 2)]))
+                    {
+                        Console.WriteLine(_size - (j + 1));
+                        break;
                     }
                 }
-
-                foreach (int item in res)
-                {
-                    Console.WriteLine(item.ToString());
-                }
-            }//foreach (string StrToCompute in inputs
-            #endregion
-
-            WaitAndClose();
+            }//for (int i = 0; i < T; i++)
+            //WaitAndClose();
         }
 
         static bool IsPolydrome(string s)
         {
-            bool res;
-            char[] array = s.ToCharArray();
-            Array.Reverse(array);
-            string rev = new string(array);
-            res = string.Equals(s, rev);
-            return res;
+            //bool res;
+            //char[] array = s.ToCharArray();
+            //Array.Reverse(array);
+            //string rev = new string(array);
+            //res = string.Equals(s, rev);
+            //return res;
+
+            for (int i = 0; i < Convert.ToInt32(s.Length / 2); i++)
+            {
+                if (s[i] != s[s.Length - 1 - i])
+                {
+                    return false;
+                }
+            }
+            return true;
         }
 
         static void WaitAndClose()
         {
-            //Console.Write("\nPress any key to continue... ");
-            //Console.ReadLine();
+            Console.Write("\nPress any key to continue... ");
+            Console.ReadLine();
         }
 
     }
