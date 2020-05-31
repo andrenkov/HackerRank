@@ -1,0 +1,6 @@
+E:\A_Project\HackerRank\HackerRank30Days\HackerRankDay01-6\bin\Debug\HackerRankDay01-6.exe.config
+E:\A_Project\HackerRank\HackerRank30Days\HackerRankDay01-6\bin\Debug\HackerRankDay01-6.exe
+E:\A_Project\HackerRank\HackerRank30Days\HackerRankDay01-6\bin\Debug\HackerRankDay01-6.pdb
+E:\A_Project\HackerRank\HackerRank30Days\HackerRankDay01-6\obj\Debug\HackerRankDay01-6.csproj.CoreCompileInputs.cache
+E:\A_Project\HackerRank\HackerRank30Days\HackerRankDay01-6\obj\Debug\HackerRankDay01-6.exe
+E:\A_Project\HackerRank\HackerRank30Days\HackerRankDay01-6\obj\Debug\HackerRankDay01-6.pdb
