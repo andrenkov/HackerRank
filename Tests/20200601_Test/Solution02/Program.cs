@@ -14,6 +14,8 @@ namespace Solution02
             int size = q.Length;
             List<int> attempts = new List<int>();
 
+            attempts.IndexOf()
+
             int[] orig = new int[q.Length];
             q.CopyTo(orig, 0);
             Array.Sort(orig);

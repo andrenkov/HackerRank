@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\Tests\Program2\bin\Debug\Program2.exe.config
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\Tests\Program2\bin\Debug\Program2.exe
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\Tests\Program2\bin\Debug\Program2.pdb
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\Tests\Program2\obj\Debug\Program2.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\Tests\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\Tests\Program2\obj\Debug\Program2.exe
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\Tests\Program2\obj\Debug\Program2.pdb
