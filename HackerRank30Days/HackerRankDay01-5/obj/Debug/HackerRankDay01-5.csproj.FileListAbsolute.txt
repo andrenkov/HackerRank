@@ -5,3 +5,10 @@ E:\A_Project\HackerRank\HackerRank30Days\HackerRankDay01-5\bin\Debug\HackerRankD
 E:\A_Project\HackerRank\HackerRank30Days\HackerRankDay01-5\bin\Debug\HackerRankDay01-5.pdb
 E:\A_Project\HackerRank\HackerRank30Days\HackerRankDay01-5\obj\Debug\HackerRankDay01-5.exe
 E:\A_Project\HackerRank\HackerRank30Days\HackerRankDay01-5\obj\Debug\HackerRankDay01-5.pdb
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-5\bin\Debug\HackerRankDay01-5.exe.config
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-5\bin\Debug\HackerRankDay01-5.exe
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-5\bin\Debug\HackerRankDay01-5.pdb
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-5\obj\Debug\HackerRankDay01-5.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-5\obj\Debug\HackerRankDay01-5.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-5\obj\Debug\HackerRankDay01-5.exe
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-5\obj\Debug\HackerRankDay01-5.pdb
