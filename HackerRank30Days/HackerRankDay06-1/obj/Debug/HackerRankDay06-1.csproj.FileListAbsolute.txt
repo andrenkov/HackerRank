@@ -1,0 +1,6 @@
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay06-1\bin\Debug\HackerRankDay06-1.exe.config
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay06-1\bin\Debug\HackerRankDay06-1.exe
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay06-1\bin\Debug\HackerRankDay06-1.pdb
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay06-1\obj\Debug\HackerRankDay06-1.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay06-1\obj\Debug\HackerRankDay06-1.exe
+C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay06-1\obj\Debug\HackerRankDay06-1.pdb
