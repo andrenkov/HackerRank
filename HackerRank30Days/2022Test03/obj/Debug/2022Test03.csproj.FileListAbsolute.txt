@@ -1,0 +1,8 @@
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\2022Test03\bin\Debug\2022Test03.exe.config
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\2022Test03\bin\Debug\2022Test03.exe
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\2022Test03\bin\Debug\2022Test03.pdb
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\2022Test03\obj\Debug\2022Test03.csproj.AssemblyReference.cache
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\2022Test03\obj\Debug\2022Test03.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\2022Test03\obj\Debug\2022Test03.csproj.CoreCompileInputs.cache
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\2022Test03\obj\Debug\2022Test03.exe
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\2022Test03\obj\Debug\2022Test03.pdb
