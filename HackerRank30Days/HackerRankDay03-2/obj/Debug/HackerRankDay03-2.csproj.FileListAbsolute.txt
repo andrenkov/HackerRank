@@ -4,3 +4,5 @@ C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay03
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay03-2\obj\Debug\HackerRankDay03-2.csproj.CoreCompileInputs.cache
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay03-2\obj\Debug\HackerRankDay03-2.exe
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay03-2\obj\Debug\HackerRankDay03-2.pdb
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay03-2\obj\Debug\HackerRankDay03-2.csproj.AssemblyReference.cache
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay03-2\obj\Debug\HackerRankDay03-2.csproj.SuggestedBindingRedirects.cache

@@ -7,7 +7,8 @@ E:\A_Project\HackerRank\HackerRank30Days\HackerRankDay01-6\obj\Debug\HackerRankD
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-6\bin\Debug\HackerRankDay01-6.exe.config
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-6\bin\Debug\HackerRankDay01-6.exe
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-6\bin\Debug\HackerRankDay01-6.pdb
-C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-6\obj\Debug\HackerRankDay01-6.csprojAssemblyReference.cache
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-6\obj\Debug\HackerRankDay01-6.csproj.CoreCompileInputs.cache
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-6\obj\Debug\HackerRankDay01-6.exe
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-6\obj\Debug\HackerRankDay01-6.pdb
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-6\obj\Debug\HackerRankDay01-6.csproj.AssemblyReference.cache
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01-6\obj\Debug\HackerRankDay01-6.csproj.SuggestedBindingRedirects.cache

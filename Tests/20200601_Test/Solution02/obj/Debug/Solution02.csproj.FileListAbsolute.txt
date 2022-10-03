@@ -1,7 +1,8 @@
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\Tests\20200601_Test\Solution02\bin\Debug\Solution02.exe.config
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\Tests\20200601_Test\Solution02\bin\Debug\Solution02.exe
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\Tests\20200601_Test\Solution02\bin\Debug\Solution02.pdb
-C:\Users\Vlad\source\repos\andrenkov\HackerRank\Tests\20200601_Test\Solution02\obj\Debug\Solution02.csprojAssemblyReference.cache
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\Tests\20200601_Test\Solution02\obj\Debug\Solution02.csproj.CoreCompileInputs.cache
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\Tests\20200601_Test\Solution02\obj\Debug\Solution02.exe
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\Tests\20200601_Test\Solution02\obj\Debug\Solution02.pdb
+C:\Users\vlad\source\repos\andrenkov\HackerRank\Tests\20200601_Test\Solution02\obj\Debug\Solution02.csproj.AssemblyReference.cache
+C:\Users\vlad\source\repos\andrenkov\HackerRank\Tests\20200601_Test\Solution02\obj\Debug\Solution02.csproj.SuggestedBindingRedirects.cache

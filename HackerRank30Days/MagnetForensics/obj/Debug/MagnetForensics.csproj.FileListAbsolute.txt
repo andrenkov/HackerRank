@@ -1,0 +1,8 @@
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\MagnetForensics\obj\Debug\MagnetForensics.csproj.AssemblyReference.cache
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\MagnetForensics\obj\Debug\MagnetForensics.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\MagnetForensics\obj\Debug\MagnetForensics.csproj.CoreCompileInputs.cache
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\MagnetForensics\bin\Debug\MagnetForensics.exe.config
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\MagnetForensics\bin\Debug\MagnetForensics.exe
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\MagnetForensics\bin\Debug\MagnetForensics.pdb
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\MagnetForensics\obj\Debug\MagnetForensics.exe
+C:\Users\vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\MagnetForensics\obj\Debug\MagnetForensics.pdb

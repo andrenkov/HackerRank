@@ -37,3 +37,5 @@ static void Main(string[] args)
 	//Console.Write("\nPress any key to continue... ");
 	//Console.ReadLine();
 }
+
+https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=warmup

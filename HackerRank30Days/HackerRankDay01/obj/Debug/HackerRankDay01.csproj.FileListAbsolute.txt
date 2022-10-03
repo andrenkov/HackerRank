@@ -8,7 +8,8 @@ E:\A_Project\HackerRank\HackerRank30Days\HackerRankDay01\obj\Debug\HackerRankDay
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01\bin\Debug\HackerRankDay01.exe.config
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01\bin\Debug\HackerRankDay01.exe
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01\bin\Debug\HackerRankDay01.pdb
-C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01\obj\Debug\HackerRankDay01.csprojAssemblyReference.cache
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01\obj\Debug\HackerRankDay01.csproj.CoreCompileInputs.cache
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01\obj\Debug\HackerRankDay01.exe
 C:\Users\Vlad\source\repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01\obj\Debug\HackerRankDay01.pdb
+C:\Users\vlad\Source\Repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01\obj\Debug\HackerRankDay01.csproj.AssemblyReference.cache
+C:\Users\vlad\Source\Repos\andrenkov\HackerRank\HackerRank30Days\HackerRankDay01\obj\Debug\HackerRankDay01.csproj.SuggestedBindingRedirects.cache
