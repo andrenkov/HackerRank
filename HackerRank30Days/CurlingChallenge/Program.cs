@@ -1,4 +1,5 @@
-﻿using CurlingChallenge.Models;
+﻿using CurlingChallenge;
+using CurlingChallenge.Models;
 
 int widht = 1000;
 double height = Math.Pow(10, 100);
@@ -36,19 +37,17 @@ foreach (int diskX in xCoordinates)
 
     Coords startCoords = new(diskX, height);
     CurlingRock CurlDisk = new(r, startCoords);
-
-
-    CurlDisk.DoMove(SlideToTopAndCheck());
-
     disks.Add(CurlDisk);//set end position and display in UI
 }
 
-Coords SlideToTopAndCheck()
-{
-    Coords result = new(0,0);
+game g = new game(widht, height, r, disks);
+g.PlayGame();
 
-    return result;
+foreach (CurlingRock disk in g.disksList)
+{
+    Console.WriteLine(disk._end.ToString() + " ");
 }
+
 
 
 //////////////////////////////////////////////////////////////////////////
