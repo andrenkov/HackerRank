@@ -1,7 +1,7 @@
 ﻿using CurlingChallenge;
 using CurlingChallenge.Models;
 
-int widht = 1000;
+int width = 1000;
 double height = Math.Pow(10, 100);
 
 Console.WriteLine("Enter the number of disks:");
@@ -19,8 +19,19 @@ if (!ValiadateInput())
 Random randNum = new Random();
 int[] xCoordinates = Enumerable
     .Repeat(0, n)
-    .Select(i => randNum.Next(0, widht))
+    .Select(i => randNum.Next(r, width))
     .ToArray();
+
+//for Unit Test
+//n = 5;
+//r = 100;
+//int[] xCoordinates = new[] { 100, 300, 500, 700, 900};//100, 100, 100, 100, 100
+//int[] xCoordinates = new[] { 100, 100, 100, 100, 100 };//100, 300, 500, 700, 900
+//int[] xCoordinates = new[] { 100, 100, 100, 200, 200 };//100, 300, 500, 673.2050807568877, 873.2050807568877
+//int[] xCoordinates = new[] { 100, 100, 100, 300, 300 };//100, 300, 500, 100, 300
+//int[] xCoordinates = new[] { 100, 100, 100, 300, 350 };//100, 300, 500, 100, 293.64916731037084
+//int[] xCoordinates = new[] { 100, 150, 200, 250, 300 };//100, 293.64916731037084, 487.2983346207417, 680.9475019311126, 874.5966692414834
+//int[] xCoordinates = new[] { 100, 150, 200, 250, 700 };//100, 293.64916731037084, 487.2983346207417, 680.9475019311126, 100
 
 
 bool ValiadateInput()
@@ -40,13 +51,13 @@ foreach (int diskX in xCoordinates)
     disks.Add(CurlDisk);//set end position and display in UI
 }
 
-game g = new game(widht, height, r, disks);
+game g = new game(width, height, r, disks);
 g.PlayGame();
 
-foreach (CurlingRock disk in g.disksList)
-{
-    Console.WriteLine(disk._end.ToString() + " ");
-}
+double[] result = g.disksList
+        .Select(disk => disk._end.Y)
+        .ToArray();
+Console.WriteLine(string.Join(", ", result));
 
 
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CurlingChallenge.Models
 {
-    public readonly struct Coords
+    public struct Coords
     {
         public Coords(double x, double y)
         {
@@ -14,8 +14,8 @@ namespace CurlingChallenge.Models
             Y = y;
         }
 
-        public double X { get; init; }
-        public double Y { get; init; }
+        public double X { get; init; }//read only
+        public double Y { get; set; }//will be updated
         
     }
 }
